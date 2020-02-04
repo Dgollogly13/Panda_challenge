@@ -10,7 +10,7 @@ As is the norm for many of these challenges, I am running this code out of my an
 
 When analyzing the Heroes of Pymoli data, I utilized Pandas functions to clean and transorm the data per the instructions of each individual task. 
 
-### Challenges faced
+### Challenges or Additional Opportunities
 
 One of the challenges I faced was binning the data correctly. How the user assigns the correct ranges to each bin, as well as how one divides the data is crucial. Though it sounds simplistic, data can be easily manipulated and biased when using incorrect binning techniques.
 
